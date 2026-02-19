@@ -23,20 +23,19 @@ This project simulates a real-world insurance claim review system used by health
 ## 🖼️ Screenshots
 
 ### Dashboard Overview
-![Dashboard](image.png)
+![alt text](public/image.png)
 
 ### Claim Data Panel
-![Claim Data](image-1.png)
+![alt text](public/image-1.png)
 
 ### Medical PDF Viewer
-![PDF View](image-2.png)
+![alt text](public/image-2.png)
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-- Next.js 14 (App Router)
 - React
 - TypeScript
 - Tailwind CSS
