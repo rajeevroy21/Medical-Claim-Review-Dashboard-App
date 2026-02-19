@@ -11,6 +11,7 @@ This project simulates a real-world insurance claim review system used by health
 - 📄 View medical claim PDF document inside dashboard
 - 📊 Display structured claim JSON data
 - 🔍 Side-by-side comparison of claim data and PDF
+- 📤 Upload your own PDF and JSON files
 - ⚡ Fast and responsive user interface
 - 🎨 Clean and modern dashboard design
 - 📱 Responsive layout for different screen sizes
@@ -44,6 +45,19 @@ This project simulates a real-world insurance claim review system used by health
 ### Data Source
 - JSON file
 - PDF document
+
+---
+
+## 📂 Demo Files
+
+This project includes demo files stored in the **public folder** for demonstration purposes:
+
+- 📄 Demo PDF → `/demo-claim.pdf`
+- 📊 Demo JSON → `/demo-data.json`
+
+These files load automatically when the dashboard opens, allowing users to immediately see how the claim review system works.
+
+Users can also upload their own PDF and JSON files to review custom claims.
 
 ---
 
